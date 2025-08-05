@@ -6,7 +6,7 @@ Where old school math meets machine learning magic. These projects mix **classic
 
 ### 🧭 [Solving the Traveling Salesman Problem (TSP) with ML + Heuristics ➜](https://github.com/lexusimni/tsp-hybrid-optimizer)
 
-Gave the classic TSP a glow-up. Combined **reinforcement learning**, greedy heuristics, and graph search to crack one of the hardest problems in logistics. It’s like Google Maps, but smarter (and built by me).
+Gave the classic TSP a glow up. Combined **reinforcement learning**, greedy heuristics, and graph search to crack one of the hardest problems in logistics. It’s like Google Maps, but smarter (and built by me).
 
 ---
 
